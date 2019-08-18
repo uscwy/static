@@ -2,22 +2,22 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisan-static-demo.netlify.com',
+    'baseUrl' => 'https://www.wangyong.com/',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'My Blog',
+        'description' => 'Personal blog of Yong Wang.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'Yong Wang',
+        'twitter' => 'uscwy',
+        'github' => 'uscwy',
     ],
     'services' => [
-        'analytics' => 'UA-XXXXX-Y',
-        'disqus' => 'artisanstatic',
-        'cloudinary' => 'artisanstatic',
-        'jumprock' => 'artisanstatic',
+        'analytics' => 'UA-145860007-1',
+        'disqus' => 'wangyong',
+        'cloudinary' => 'wangyong',
+        'jumprock' => 'wangyong',
     ],
     'collections' => [
         'posts' => [
