@@ -6,6 +6,6 @@
     <h1>About</h1>
 
     <p>My name is {{ $page->owner->name }}</p>
-    <p>I'm a software developer and live in Cupertino, California</p>
+    <p>I'm a software developer living in Cupertino, California</p>
 
 @endsection
