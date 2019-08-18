@@ -10,7 +10,9 @@ return [
     ],
     'owner' => [
         'name' => 'Yong Wang',
-        'twitter' => 'uscwy',
+        'facebook' => 'uscwy',
+        'linkedin' => 'wang-yong-usc',
+        'twitter' => 'coolnet6',
         'github' => 'uscwy',
     ],
     'services' => [
